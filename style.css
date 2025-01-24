@@ -1,0 +1,17 @@
+/* Center the links within the footer */
+footer a {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
+
+/* Center the button within the footer */
+footer button {
+    display: block;
+    margin: 10px auto;
+}
+
+/* Center the nav links within the footer */
+footer .nav-link {
+    text-align: center;
+}
